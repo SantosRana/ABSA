@@ -204,7 +204,7 @@ The app provides:
   
 ### 🎥 Demo
 
-[Watch Demo Video](https://drive.google.com/file/d/FILE_ID/preview](https://drive.google.com/file/d/1He_7lNkMKTD0Nv0Hzc4wyh949DheK1U2/preview)
+[Watch Demo Video](https://drive.google.com/file/d/1He_7lNkMKTD0Nv0Hzc4wyh949DheK1U2/preview)
 
 ### Run Qwen 2.5 via Ollama
 
