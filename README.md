@@ -101,7 +101,6 @@ Percentage of Misclassified aspects on a set of complex multi aspect reviews (`h
 ```
 project/
 ├── assets/                   
-│   ├── demo.mp4                # Short demo of the Streamlit app
 │   ├── model_comparison.png    # Figure of model comparison
 │   └── hard_example_comparison.png  # Plot on multi aspect hard cases
 │
@@ -201,7 +200,11 @@ streamlit run app.py
 The app provides:
 - **Live review analyzer** — input a Korean restaurant review and get real-time ABSA predictions from all three models
 - **Model comparison dashboard** — per-aspect F1 scores, overall metrics, and efficiency comparisons and visualizations
- **A short demo video of the app is included inside assets folder** 
+ **A short demo video of the app is included inside assets folder**
+  
+### 🎥 Demo
+
+[Watch Demo Video](https://drive.google.com/file/d/FILE_ID/preview](https://drive.google.com/file/d/1He_7lNkMKTD0Nv0Hzc4wyh949DheK1U2/preview)
 
 ### Run Qwen 2.5 via Ollama
 
