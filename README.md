@@ -246,3 +246,10 @@ Before running the project, ensure:
 - Explore aspect-aware attention on top of KcELECTRA
 - Extend ABSA to other domains (e-commerce, hotels, etc.)
 
+## Pretrained Models
+
+Due to file size limitations, pretrained model weights are not included in this repository.
+
+You can download them here: [Download models here](https://drive.google.com/drive/folders/1HlcgLUynwn3i8mkiKum1NQq9crUIPhs-?preview)
+
+After downloading, place them in the weights/ folder.
